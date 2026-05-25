@@ -1,0 +1,135 @@
+aid: zed-editor
+name: Zed
+description: >-
+  Zed is an open-source, high-performance multiplayer code editor written from
+  scratch in Rust and built around GPU-accelerated rendering through its own
+  GPUI framework. Created by Zed Industries — founded by Nathan Sobo, Antonio
+  Scandurra, and Max Brunsfeld, the team behind Atom, Electron, and
+  Tree-sitter — Zed combines a native desktop editor with real-time
+  collaboration, native Git integration, Language Server Protocol and Debug
+  Adapter Protocol support, and a first-class AI agent surface that includes
+  edit prediction powered by the open-weight Zeta2 model, an inline assistant,
+  parallel agents, and integrations with external coding agents (Claude,
+  Codex, OpenCode) via the Agent Client Protocol (ACP) and Model Context
+  Protocol (MCP). The editor itself is free and triple-licensed (AGPL /
+  Apache-2.0 / GPL-3.0) with paid Pro and Business tiers that bundle hosted
+  AI capabilities, edit prediction quotas, organization controls, and data
+  governance. Zed runs on macOS, Linux, and Windows and exposes a WASM-based
+  extension API (themes, languages, debuggers, snippets, MCP servers, agent
+  servers) with extensions published through the zed-industries/extensions
+  repository.
+type: Index
+position: Producer
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Code Editor
+  - Developer Tools
+  - IDE
+  - Rust
+  - GPU Accelerated
+  - Open Source
+  - AI Coding
+  - Agentic Editing
+  - Real-Time Collaboration
+  - Language Server Protocol
+  - Debug Adapter Protocol
+  - Model Context Protocol
+  - Agent Client Protocol
+  - WebAssembly Extensions
+  - Tree-sitter
+  - Multiplayer
+url: https://raw.githubusercontent.com/api-evangelist/zed-editor/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+kind: opensource
+apis: []
+common:
+  - type: Website
+    url: https://zed.dev
+  - type: Documentation
+    url: https://zed.dev/docs/
+  - type: Download
+    url: https://zed.dev/download
+  - type: Pricing
+    url: https://zed.dev/pricing
+  - type: Business
+    url: https://zed.dev/business
+  - type: Extensions
+    url: https://zed.dev/extensions
+  - type: ThemeBuilder
+    url: https://zed.dev/theme-builder
+  - type: Roadmap
+    url: https://zed.dev/roadmap
+  - type: Releases
+    url: https://zed.dev/releases
+  - type: Status
+    url: https://zedstatus.com
+  - type: Blog
+    url: https://zed.dev/blog
+  - type: Community
+    url: https://zed.dev/community
+  - type: Discussions
+    url: https://github.com/zed-industries/zed/discussions
+  - type: Support
+    url: https://zed.dev/support
+  - type: FAQ
+    url: https://zed.dev/faq
+  - type: About
+    url: https://zed.dev/about
+  - type: Team
+    url: https://zed.dev/team
+  - type: Values
+    url: https://zed.dev/values
+  - type: Jobs
+    url: https://zed.dev/jobs
+  - type: Press
+    url: https://zed.dev/press
+  - type: Brand
+    url: https://zed.dev/brand
+  - type: Privacy
+    url: https://zed.dev/privacy
+  - type: Telemetry
+    url: https://zed.dev/docs/telemetry
+  - type: SOC2
+    url: https://zed.dev/docs/privacy-and-security/soc2
+  - type: CLA
+    url: https://zed.dev/cla
+  - type: Login
+    url: https://zed.dev/sign_in
+  - type: Signup
+    url: https://zed.dev/sign_up
+  - type: GitHubOrganization
+    url: https://github.com/zed-industries
+  - type: SourceCode
+    url: https://github.com/zed-industries/zed
+  - type: Extensions
+    url: https://github.com/zed-industries/extensions
+  - type: ExtensionDevelopment
+    url: https://zed.dev/docs/extensions/developing-extensions
+  - type: AgentClientProtocol
+    url: https://zed.dev/docs/ai/external-agents
+  - type: ModelContextProtocol
+    url: https://zed.dev/docs/ai/mcp
+  - type: GPUI
+    url: https://www.gpui.rs
+  - type: Twitter
+    url: https://twitter.com/zeddotdev
+  - type: Bluesky
+    url: https://bsky.app/profile/zed.dev
+  - type: YouTube
+    url: https://www.youtube.com/@zeddotdev
+  - type: Discord
+    url: https://zed.dev/community-links
+  - type: Reddit
+    url: https://www.reddit.com/r/ZedEditor/
+  - type: License
+    url: https://github.com/zed-industries/zed/blob/main/LICENSE-APACHE
+  - type: License
+    url: https://github.com/zed-industries/zed/blob/main/LICENSE-AGPL
+  - type: License
+    url: https://github.com/zed-industries/zed/blob/main/LICENSE-GPL
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
