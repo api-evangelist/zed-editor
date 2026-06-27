@@ -60,9 +60,9 @@ common:
     url: https://zed.dev/extensions
   - type: ThemeBuilder
     url: https://zed.dev/theme-builder
-  - type: Roadmap
+  - type: RoadMap
     url: https://zed.dev/roadmap
-  - type: Releases
+  - type: ReleaseNotes
     url: https://zed.dev/releases
   - type: Status
     url: https://zedstatus.com
@@ -70,7 +70,7 @@ common:
     url: https://zed.dev/blog
   - type: Community
     url: https://zed.dev/community
-  - type: Discussions
+  - type: Forums
     url: https://github.com/zed-industries/zed/discussions
   - type: Support
     url: https://zed.dev/support

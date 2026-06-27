@@ -2,17 +2,17 @@
   "repo": "zed-editor",
   "feeds": [
     {
-      "source": "https://zed.dev/blog",
+      "source": "https://zed.dev/blog.rss",
       "feed_url": "https://zed.dev/blog.rss",
       "title": "",
       "saved": 1,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://zedstatus.com",
       "error": "URLError"
     }
   ],
-  "post_count": 3,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 5,
+  "fetched": "2026-06-27T12:03:07Z"
 }
