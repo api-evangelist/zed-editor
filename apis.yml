@@ -46,6 +46,8 @@ specificationVersion: '0.20'
 kind: opensource
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/zed-editor-domain-security.yml
   - type: Website
     url: https://zed.dev
   - type: Documentation
