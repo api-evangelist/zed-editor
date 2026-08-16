@@ -5,7 +5,7 @@
       "source": "https://zed.dev/blog.rss",
       "feed_url": "https://zed.dev/blog.rss",
       "title": "",
-      "saved": 0,
+      "saved": 1,
       "method": "feed"
     },
     {
@@ -13,6 +13,6 @@
       "error": "URLError"
     }
   ],
-  "post_count": 52,
-  "fetched": "2026-08-06T14:08:46Z"
+  "post_count": 53,
+  "fetched": "2026-08-15T12:11:08Z"
 }
