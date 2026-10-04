@@ -21,6 +21,10 @@ description: >-
 type: Index
 deliveryModel:
   model: unknown
+  license_evidence:
+    repo: zed-industries/zed
+    spdx: NOASSERTION
+    stars: 90868
   open_source: unknown
   commercial: true
   callable_host: false
@@ -29,7 +33,7 @@ deliveryModel:
   source:
   - pricing
   - repository-unlicensed
-  generated: '2026-08-28'
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: unknown
@@ -51,7 +55,7 @@ tags:
   - IDE
   - Rust
   - GPU Accelerated
-  - Open-Source
+  - Open Source
   - AI Coding
   - Agentic Editing
   - Real-Time Collaboration
@@ -79,6 +83,7 @@ tags_raw:
   - WebAssembly Extensions
   - Tree-sitter
   - Multiplayer
+  - Open-Source
 url: https://raw.githubusercontent.com/api-evangelist/zed-editor/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
